@@ -88,7 +88,6 @@ def hangman():
                 print(word.upper() + "  was the correct word !")
                 break
                 
-#print("                   Welcome              ")
 print(".................HANGMAN GAME...................")
 name = input("Enter you name! ")
 print("Welcome ",name)
